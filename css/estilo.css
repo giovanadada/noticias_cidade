@@ -1,6 +1,4 @@
-/* Estrutura do site
-*/
-
+/* Estrutura do site */
 * {
 	margin: 0;
 	padding: 0;
@@ -29,9 +27,7 @@ body {
 	text-indent: -3000px; /* esconder o texto 'noticias cidade do logo' */
 }
 
-/*  Barra de navegaçao
-*/
-
+/*  Barra de navegaçao */
 ul {
 	margin: 0;
 	padding: 0;
@@ -145,7 +141,6 @@ h2{
 	border-bottom: 1px solid #f3f3f3;
 }
 
-
 #lateral ul a:hover{
 	background: #f9f9f9 url(../imagens/marcador.png) no-repeat left center;
 	color: #a1a1a1;
@@ -181,7 +176,6 @@ input.submit:hover {
 }
 
 /* formatando imagens e texto e link do conteudo principal */
-
 .conteudo-principal img {
 	width: 98%;
 	border: 3px solid #dfdfdf;
@@ -210,7 +204,6 @@ h3{
 	font-size: 0.8em;
 	padding: 3px;
 	margin-bottom: 5px;
-
 }
 
 .destaque h3{
@@ -283,14 +276,3 @@ h3{
 #clear{
 	clear: both;
 }
-
-
-
-
-
-
-
-
-
-
-
